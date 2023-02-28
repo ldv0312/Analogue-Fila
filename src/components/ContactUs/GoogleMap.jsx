@@ -14,7 +14,7 @@ const GoogleMap = () => {
           marginTop: 20,
         }}
         loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"
+        referrerPolicy="no-referrer-when-downgrade"
       ></iframe>
     </div>
   );

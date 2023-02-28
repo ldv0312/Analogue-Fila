@@ -14,9 +14,9 @@ const GoogleMap2 = () => {
           marginTop: 20,
           width: "100%",
         }}
-        allowfullscreen=""
+        allowFullScreen=""
         loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"
+        referrerPolicy="no-referrer-when-downgrade"
       ></iframe>
     </div>
   );
